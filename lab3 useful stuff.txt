@@ -1,0 +1,5 @@
+normxcorr?
+
+imhist
+
+eqhist
